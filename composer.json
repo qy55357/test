@@ -1,0 +1,12 @@
+{
+    "name": "qy55357/test",
+    "description": "this is composer test p",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "qy55357",
+            "email": "2454207174@qq.com"
+        }
+    ],
+    "require": {}
+}
